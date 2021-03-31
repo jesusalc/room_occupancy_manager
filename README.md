@@ -84,4 +84,54 @@ Economy Ganancias  ____
 Dinero Ganar Total ____
 
 
+Prueba 1
+246 x Hab Prem
+55.66 x Hab Eco
+
+Prueba 2
+175 x Hab Prem
+47.25 x Hab Eco
+
+Prueba 3
+291.5 x Hab Prem
+47.25 x Hab Eco
+
+Prueba 4
+164.71 x Hab Prem
+45 x Hab Eco
+
+
+Premium
+2  291.5
+3  246
+6  175
+7  164.71
+
+Econo
+1  45
+3  55.66
+4  47.25
+
+guests.json
+[
+  23,
+  45,
+  155,
+  374,
+  22,
+  99,
+  100,
+  101,
+  115,
+  209
+]
+
+Clientes:
+23, 45, 22, 99
+1    2     3   4    5    6
+155, 374, 100, 101, 115, 209
+
+Prueba 1
+3 P 3 E = 374, 209, 155 = 738
+           99, 45,  23 =
 
