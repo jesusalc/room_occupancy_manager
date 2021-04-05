@@ -1,0 +1,10 @@
+
+.nurignore_files
+
+.nurignore_dirs
+
+.ersetzeignore_files
+
+.ersetzeignore_dirs
+node_modules/
+yarn.lock
